@@ -1,0 +1,2 @@
+Napisow z taka sama iloscia 1 co 0 jest: 0
+No chyba ¿e zakladamy ze jak jest zero 1 i zero 0 to te¿ sie liczy - wtedy: 6

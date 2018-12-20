@@ -1,0 +1,3 @@
+Ile: 3
+Najmniejsza: 12
+Najwieksza: 123357

@@ -1,0 +1,2 @@
+Najwieksza w dziesietnym: 64502
+w binarnym / dwojkowym: 1111101111110110

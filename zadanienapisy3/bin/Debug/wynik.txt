@@ -1,0 +1,2 @@
+Napisow z samych zer: 1
+Napisow z samych jedynek: 1

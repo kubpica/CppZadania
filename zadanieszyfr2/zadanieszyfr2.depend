@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453678176 source:c:\users\kubpica\desktop\c++zadania\zadanieszyfr2\main.cpp
+	<iostream>
+	<fstream>
+

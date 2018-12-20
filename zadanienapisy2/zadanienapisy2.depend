@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453326564 source:c:\users\kubpica\desktop\c++zadania\zadanienapisy2\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,3 @@
+Ile: 0
+Najmniejsza: 0
+Najwieksza: 0
