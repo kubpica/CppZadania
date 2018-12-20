@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1463414645 source:c:\users\kubpica\desktop\c++zadania\powtorka\slowa2015\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,4 @@
+a) 40
+b) Najmniej dzielnikow, bo 22 posiada para liczb 5020 i 5564
+dzielniki 5020: 2510 1255 1004 502 251 20 10 5 4 2 1 
+dzielniki 5564: 2782 1391 428 214 107 52 26 13 4 2 1 

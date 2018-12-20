@@ -1,0 +1,6 @@
+a) 
+b) 
+Najwieksza: 0
+Najmniejsza: -1
+c) 
+dlugosc: 0

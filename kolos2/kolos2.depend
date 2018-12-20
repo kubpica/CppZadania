@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1485408039 source:c:\users\kubpica\desktop\c++zadania\powtorka\kolos2\main.cpp
+	<iostream>
+	<cmath>
+	<stdlib.h>
+	<ctime>
+
