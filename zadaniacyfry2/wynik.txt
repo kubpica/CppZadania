@@ -1,0 +1,1 @@
+Liczba ktorej suma cyfr jest Najwieksza:  Najmniejsza: 

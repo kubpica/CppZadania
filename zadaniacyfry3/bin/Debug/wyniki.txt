@@ -1,0 +1,5 @@
+Liczby tworzace ciag rosnacy:
+12345
+678
+1689
+023

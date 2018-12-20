@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453325267 source:c:\users\kubpica\desktop\c++zadania\slowazadanie2\main.cpp
+	<iostream>
+	<fstream>
+

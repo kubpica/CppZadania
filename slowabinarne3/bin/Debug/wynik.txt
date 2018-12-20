@@ -1,0 +1,6 @@
+Dlugosc najdluzszego blok zlozony z samych zer: 5
+Slowa zawierajace taki najdluzszy blok:
+10101010001010000011
+1234567890000012300040
+11110000011111
+000001111169

@@ -1,0 +1,2 @@
+Dlugosc najdluzszego blok zlozony z samych zer: 0
+Slowa zawierajace taki najdluzszy blok:

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1464557729 source:c:\users\kubpica\desktop\c++zadania\powtorka\dlamega\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
